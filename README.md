@@ -24,7 +24,7 @@
 4. On another device (e.g., Quest headset or phone), open the browser and visit that IP address.
 5. Enter the PIN, and you'll be able to **download** the shared files.
 
-> ⚠️ Note: File sharing is **one-way only** — devices can **download** but not upload files to your PC.
+> ⚠️ Note: File sharing is **one-way only** — devices can **upload** but not download files from your PC.
 
 ---
 
